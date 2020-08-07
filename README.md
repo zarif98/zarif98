@@ -1,8 +1,9 @@
 ### I'm Zarif 👋
 
-## I'm a student at the Georgia Institute of Technology
+## Student at the Georgia Institute of Technology
 - Rising 4th year at the Georgia Institute of Technology
 - Three internships; All in software development
+- Looking to collaborate more and work on interesting projects
 
 ### Connect with me:
 
@@ -15,7 +16,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zarif98&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/zarif-rahman-601958168/
