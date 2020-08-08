@@ -27,7 +27,7 @@
 
 ---
 
-<img align="left" alt="Zarif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zarif98&show_icons=true&hide_border=true" />
+![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarif98&show_icons=true&hide_border=true)
 
 
 [linkedin]: https://www.linkedin.com/in/zarif-rahman-601958168/
