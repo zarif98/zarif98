@@ -1,8 +1,8 @@
 ### I'm Zarif 👋
 
-## Student at the Georgia Institute of Technology
-- Rising 4th year at the Georgia Institute of Technology
-- Three internships; All in software development
+## Recent grad out of Georgia Institute of Technology
+
+- Three internships; Covering both hardware and software engineering
 - Looking to collaborate more and work on interesting projects
 
 ### Connect with me:
@@ -11,7 +11,7 @@
 
 <br />
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -24,10 +24,8 @@
 
 <br />
 
-
 ---
 
 ![Zarif's github stats](https://github-readme-stats.vercel.app/api?username=zarif98&show_icons=true&hide_border=true)
-
 
 [linkedin]: https://www.linkedin.com/in/zarif-rahman-601958168/
