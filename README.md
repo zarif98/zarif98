@@ -3,7 +3,7 @@
 ## Recent grad out of Georgia Institute of Technology
 
 - Three internships; Covering both hardware and software engineering
-- Looking to collaborate more and work on interesting projects
+- Looking to collaborate more and work on interesting open-source projects
 
 ### Connect with me:
 
