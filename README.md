@@ -1,9 +1,10 @@
-### I'm Zarif 👋
+### Hi, I'm Zarif 👋
 
-## Recent grad out of Georgia Institute of Technology
+## Junior SWE for the past two years working at a Semiconductor Firm
 
 - Three internships; Covering both hardware and software engineering
 - Looking to collaborate more and work on interesting open-source projects
+- Have gained more than 2 years of work experience
 
 ### Connect with me:
 
